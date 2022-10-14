@@ -2,26 +2,27 @@
 
 ## Ejercicio 1 - Crear una escena simple sobre la que probar diferentes configuraciones de objetos físicos en Unity. La escena debe tener un plano a modo de suelo, una  esfera y un cubo.  
 
-a. Ninguno de los objetos será físico.  
+**a. Ninguno de los objetos será físico.**  
 
 Al no haber ningún objeto físico, no afecta ni la gravedad ni nada. Se ejecuta el juego y permanecen volando en el aire.  
 
-b. La esfera tiene físicas, el cubo no.  
+**b. La esfera tiene físicas, el cubo no.**  
 
-Se ve cómo el cubo se queda flotando en el aire pero la esfera le afecta la gravedad y baja, atravesando el plano del suelo.
-
-
-c. La esfera y el cubo tienen físicas.  
+Se ve cómo el cubo se queda flotando en el aire pero la esfera le afecta la gravedad y baja, Si se activa la opción "Is Trigger", atraviesa el plano del suelo; si no, se detiene sobre él.
 
 
-d. La esfera y el cubo son físicos y la esfera tiene 10 veces la masa del cubo.  
+**c. La esfera y el cubo tienen físicas.**  
+
+Ambos objetos bajan a la vez gracias a la gravedad y, al igual que antes, se detienen al tocar el plano a no ser de que tengan activada la opción "Is Trigger".
+
+**d. La esfera y el cubo son físicos y la esfera tiene 10 veces la masa del cubo.**  
 
 
-e. La esfera tiene físicas y el cubo es de tipo IsTrigger.  
+**e. La esfera tiene físicas y el cubo es de tipo IsTrigger.**  
 
 
-f. esfera tiene físicas, el cubo es de tipo IsTrigger y tiene físicas.  
+**f. esfera tiene físicas, el cubo es de tipo IsTrigger y tiene físicas.**  
 
 
-g. esfera y el cubo son físicos y la esfera tiene 10 veces la masa del cubo, se impide la rotación del cubo sobre el plano XZ.  
+**g. esfera y el cubo son físicos y la esfera tiene 10 veces la masa del cubo, se impide la rotación del cubo sobre el plano XZ.**  
 
