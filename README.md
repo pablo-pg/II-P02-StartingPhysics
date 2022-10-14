@@ -8,6 +8,8 @@ Al no haber ningún objeto físico, no afecta ni la gravedad ni nada. Se ejecuta
 
 b. La esfera tiene físicas, el cubo no.  
 
+Se ve cómo el cubo se queda flotando en el aire pero la esfera le afecta la gravedad y baja, atravesando el plano del suelo.
+
 
 c. La esfera y el cubo tienen físicas.  
 
