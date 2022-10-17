@@ -17,11 +17,14 @@ Ambos objetos bajan a la vez gracias a la gravedad y, al igual que antes, se det
 
 **d. La esfera y el cubo son físicos y la esfera tiene 10 veces la masa del cubo.**  
 
+El resultado a la vista es el mismo que en la pregunta anterior. Ambos bajan gracias a la gravedad y se apoyan en el plano. Independientemente de la masa, ambos tocan el plano a la vez.
 
 **e. La esfera tiene físicas y el cubo es de tipo IsTrigger.**  
 
+Ambas figuras descienden por la gravedad. El cubo, al ser IsTrigger, atraviesa el plano y cae de forma infinita, mientras que la esfera se queda en el plano.
 
 **f. esfera tiene físicas, el cubo es de tipo IsTrigger y tiene físicas.**  
+
 
 
 **g. esfera y el cubo son físicos y la esfera tiene 10 veces la masa del cubo, se impide la rotación del cubo sobre el plano XZ.**  
