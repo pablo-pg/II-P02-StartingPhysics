@@ -21,11 +21,13 @@ El resultado a la vista es el mismo que en la pregunta anterior. Ambos bajan gra
 
 **e. La esfera tiene físicas y el cubo es de tipo IsTrigger.**  
 
-Ambas figuras descienden por la gravedad. El cubo, al ser IsTrigger, atraviesa el plano y cae de forma infinita, mientras que la esfera se queda en el plano.
+Aquellas figuras con físicas descienden por la gravedad. El cubo, al ser IsTrigger, atraviesa el plano y cae de forma infinita, mientras que la esfera se queda en el plano.
 
 **f. esfera tiene físicas, el cubo es de tipo IsTrigger y tiene físicas.**  
 
-
+Ambas figuras descienden por la gravedad. El cubo, al ser IsTrigger, atraviesa el plano y cae de forma infinita, mientras que la esfera se queda en el plano.
 
 **g. esfera y el cubo son físicos y la esfera tiene 10 veces la masa del cubo, se impide la rotación del cubo sobre el plano XZ.**  
+
+Ambas bajan por la gravedad y se apoyan en el plano. Pese a que la esfera tenga 10 veces la masa del cubo, ambas figuras caen a la vez. La deshabilitación de la rotación no afecta. 
 
